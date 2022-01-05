@@ -1,0 +1,39 @@
+.bg{
+  background-image: url("https://themes.muffingroup.com/be/carwash2/wp-content/uploads/2019/09/carwash-guy-cleaning-car.jpg");
+}
+
+h1 {
+  text-align: center;
+}
+.item-container {
+
+  display: flex;
+  padding: 20px;
+  flex-direction: column;
+  margin-left: 160px;
+  
+  gap: 2em;
+  
+
+
+
+}
+.card {
+  background-color: rgb(213, 243, 238);
+  text-align: center;
+  color:rgb(0, 0, 0) ;
+  padding: 10px;
+  width: 800px;
+  border-radius: 5px;
+  padding: 3em;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+img {
+  height: 100px;
+  width: auto;
+}
+
+.bookBtn{
+  background-color: crimson;
+  color: aliceblue;
+}

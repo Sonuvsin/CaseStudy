@@ -1,0 +1,31 @@
+.login__form {
+    margin-top: 120px;
+    padding: 5px;
+   padding: 2em;
+   background-color: rgb(195, 246, 248);
+   border-radius: 22px;
+    
+  }
+  
+  .login__button {
+    margin-top: 25px;
+    margin-left: 100px;
+    
+  }
+  
+  .login__grid {
+    margin-top: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
+  
+  .link {
+    cursor: pointer;
+  }
+  
+  .span {
+    color: red;
+  }
